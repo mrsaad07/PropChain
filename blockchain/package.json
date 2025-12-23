@@ -2,6 +2,7 @@
   "name": "propchain-blockchain",
   "version": "1.0.0",
   "description": "Smart contracts for PropChain",
+  "license": "MIT",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"

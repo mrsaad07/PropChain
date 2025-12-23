@@ -2,6 +2,7 @@
   "name": "propchain-backend",
   "version": "1.0.0",
   "description": "Backend for PropChain - Blockchain-Based Property Management System",
+  "license": "MIT",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
