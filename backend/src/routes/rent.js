@@ -1,0 +1,1 @@
+const express = require('express'); const router = express.Router(); const { payRent, getTenantHistory } = require('../controllers/rentController'); const { protect } = require('../middleware/auth'); router.post('/pay', protect, payRent); router.get('/tenant-history/:wallet', getTenantHistory); module.exports = router;
